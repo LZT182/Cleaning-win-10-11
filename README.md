@@ -1,4 +1,6 @@
 # English:
+https://github.com/user-attachments/assets/a79d43df-f2db-4c17-a091-f8cd813575d5)
+
 
 Temporary Files Cleaner
 This Python script helps clean temporary files from common Windows temporary directories such as:
