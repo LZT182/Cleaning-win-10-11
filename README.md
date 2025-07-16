@@ -3,7 +3,7 @@
 Temporary Files Cleaner
 This Python script helps clean temporary files from common Windows temporary directories such as:
 
-C:\Users\MC_Adamson\AppData\Local\Temp
+C:\Users\Name of user\AppData\Local\Temp
 
 C:\Windows\Temp
 
@@ -28,7 +28,7 @@ Simply run the script to remove temporary files and free up disk space. You can 
 Очистка временных файлов
 Этот скрипт на Python предназначен для очистки временных файлов из часто используемых временных папок Windows, таких как:
 
-C:\Users\MC_Adamson\AppData\Local\Temp
+C:\Users\Name of user\AppData\Local\Temp
 
 C:\Windows\Temp
 
